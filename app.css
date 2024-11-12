@@ -69,7 +69,7 @@ nav {
 .ham-menu span {
     height: 5px;
     width: 100%;
-    background-color: light-gray;
+    background-color: gray;
     border-radius: 25px;
     position: absolute;
     left: 50%;
