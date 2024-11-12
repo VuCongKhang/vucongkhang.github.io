@@ -83,6 +83,9 @@ nav {
 .ham-menu span:nth-child(3) {
     top: 75%;
 }
+.ham-menu:hover{
+    background-color: beige;
+}
 .ham-menu.active span {
     background-color: white;
 }
