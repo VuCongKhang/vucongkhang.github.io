@@ -68,7 +68,7 @@ nav {
 .ham-menu span {
     height: 5px;
     width: 100%;
-    background-color: #fffffe;
+    background-color: beige;
     border-radius: 25px;
     position: absolute;
     left: 50%;
@@ -83,7 +83,7 @@ nav {
     top: 75%;
 }
 .ham-menu.active span {
-    background-color: white;
+    background-color: red;
 }
 .ham-menu.active span:nth-child(1) {
     top: 50%;
