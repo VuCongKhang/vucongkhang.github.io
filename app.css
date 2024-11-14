@@ -28,6 +28,11 @@ body {
     font-family: sans-serif;
 }
 
+.introduce {
+    font-weight: 500;
+    font-style: normal;
+}
+
 /* off-screen-menu */
 .off-screen-menu {
     background-color:  rgb(34, 37, 49);
