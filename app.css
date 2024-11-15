@@ -37,8 +37,9 @@ body {
 .below {
     font-weight: 500;
     font-style: normal;
-    font-size: 3rem;
+    font-size: 2.9rem;
     border-radius: 12px;
+    gap: 60px;
 }
 
 
