@@ -47,9 +47,10 @@ body {
     border-bottom: 6px solid #e5e5e5;
     border-radius: 15px;
     transition: 0.8s
+    transition: border-bottom 0.2s
 }
 .below:hover {
-    background-color: rgb(155,155,155);
+    border-color: rgb(155,155,155);
 }
 .below:active {
     border-bottom: 2px solid #1cb0f6;
