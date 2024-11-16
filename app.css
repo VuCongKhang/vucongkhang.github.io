@@ -43,6 +43,7 @@ body {
     margin-left: 50px;
     margin-right: 50px;
     border-radius: 15px;
+    transition: 0.8s
 }
 .below:hover {
     color: rgb(155,155,155);
