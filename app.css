@@ -16,7 +16,6 @@ a {
     font-style: normal;
 }
 a:hover {
-    color: rgb(255,255,220);
     cursor: pointer;
 }
 
@@ -31,6 +30,9 @@ body {
     font-size: 3rem;
     color: white;
 }
+.introduce:hover {
+    color: rgb(255,255,220);
+}
 
 .below {
     font-weight: 300;
@@ -42,7 +44,9 @@ body {
     margin-right: 50px;
     border-radius: 15px;
 }
-
+.below:hover {
+    color: rgb(155,155,155);
+}
 
 
 /* off-screen-menu */
