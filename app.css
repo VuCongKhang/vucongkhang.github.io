@@ -36,16 +36,14 @@ body {
 }
 
 .below {
-    font-weight: 500;
-    font-style: normal;
-    font-size: 2.9rem;
-    border-radius: 12px;
-    gap: 60px;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 50px;
+    font-weight: 300;
+    font-size: 2.5rem;
+    font-style
     background-color: white;
     color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 
