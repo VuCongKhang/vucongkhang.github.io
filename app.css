@@ -78,6 +78,7 @@ nav {
     display: flex;
     background-color: rgb(34, 37, 49);
     border-radius: 0 0 25px 25px;
+    margin-bottom: 50px;
 }
 
 /* ham menu */
