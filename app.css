@@ -25,6 +25,10 @@ body {
     font-family: sans-serif;
 }
 
+.center {
+    text-align: center;
+}
+
 img {
   display: block;
   margin-left: auto;
